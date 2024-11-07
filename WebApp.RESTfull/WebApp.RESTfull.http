@@ -1,0 +1,6 @@
+@WebApp.RESTfull_HostAddress = http://localhost:5105
+
+GET {{WebApp.RESTfull_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
